@@ -76,11 +76,11 @@ Midnight Mountain: Behind start (79)
 
 Crystal Islands: All except moles (84)
 
-Midnight Mountain: Thief, wall (86)
+Midnight Mountain: Thief (85)
 
-Desert Ruins: All except sharks (91)
+Desert Ruins: All except sharks (90)
 
-Midnight Mountain: Egg near Sorceress (92)
+Midnight Mountain: Wall and Egg near Sorceress (92)
 
 Haunted Tomb: EoL, slide, tanks 1, climb eggs (96)
 
