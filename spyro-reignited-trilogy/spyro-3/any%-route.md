@@ -8,7 +8,7 @@ To fight the sorceress you need 100 eggs to open the door.
 
 ## Egg Route
 
-Taken from: https://pastebin.com/6vc4TLA8
+edited from: https://pastebin.com/6vc4TLA8
 
 Sunrise Spring: By the stream (1)
 
@@ -32,37 +32,39 @@ Seashell Shore: All except Bluto (28)
 
 Buzz (29)
 
-Midday Gardens: Cave (30)
+Midday Gardens: Underwater (30)
 
-Icy Peak: All except Nancy (35)
+Enchanted Towers: Island, EoL, Skateboarding Eggs (34)
 
-Midday Gardens: Thief (36)
+Midday Gardens: Cave (35)
 
-Sgt. Byrd's Base: NPC Eggs (38)
+Icy Peak: All except Nancy (40)
 
-Molten Crater for Hidden Wall Egg in Byrd (39)
+Midday Gardens: Thief (41)
 
-Midday Gardens: Underwater (40)
+Sgt. Byrd's Base: NPC Eggs (43)
 
-Enchanted Towers: Island, EoL, Skateboarding Eggs (44)
+Spooky Swamp: Island, EoL, and Tree Eggs (46)
 
-Spooky Swamp: Island, EoL, and tree eggs (47)
+Midday Gardens: Ladder and Flower Pots (48)
 
-Midday Gardens: Ladder and flower pots (49)
+Bamboo Terrace: EoL, Thief, Cave and Island Eggs (52)
 
-Bamboo Terrace: EoL, thief, cave and island eggs (53)
+Molten Crater for Hidden Wall Egg in Byrd (53)
 
 Spike (54)
 
-Evening Lake: All except Whale (58)
+Evening Lake: Tower and Purple Room (56)
 
-Charmed Ridge: All except Byrd (63)
+Fireworks Factory: Noodles, Ninja HQ, EoL (59)
 
-Evening Lake: Whale (64)
+Lost Fleet: EoL and Acid River (61)
 
-Lost Fleet: EoL and acid eggs (66)
+Evening Lake: Invincibility and Bridge (63)
 
-Fireworks Factory: Noodles, Ninja HQ, EoL (69)
+Charmed Ridge: All except Byrd (68)
+
+Evening Lake: Whale (69)
 
 Bentley's Outpost: All (72)
 
